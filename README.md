@@ -4,6 +4,8 @@
 - Vite + React
 - Tailwind CSS
 
+#### **Visit the site : https://nike-landing-page-samrat.netlify.app/**
+
 #### **ScreenShots :**
 
 ![Screenshot (102)](https://github.com/samrat2k03/nike-landing-page/assets/77772897/c9164337-6e9e-4b07-968d-6220690ccf83)
