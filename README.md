@@ -1,4 +1,4 @@
-# **✓ ✔ Nike Landing WebPage**
+# **✔ Nike Landing WebPage**
 
 ### **Welcome to the Nike Landing WebPage repository! This project is a landing page for Nike products built with,**
 - Vite + React
