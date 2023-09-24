@@ -30,6 +30,7 @@ export const navLinks = [
     {href: "#about-us", label:"About Us"},
     {href: "#products", label:"Products"},
     {href: "#contact-us", label:"Contact Us"},
+    {href:"https://samrat2k03.github.io/Portofolio/", label:"Creater"}
 ]
 
 export const shoes = [
