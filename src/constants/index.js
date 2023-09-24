@@ -107,7 +107,7 @@ export const reviews = [
     },
     {
         imgURL: customer2,
-        customerName: 'Spider Man',
+        customerName: 'Gwen Stacy',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }
